@@ -1,0 +1,7 @@
+div > p > span{
+    color: red;
+}
+
+.span--red{
+    color: red;
+}
